@@ -4,11 +4,13 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="200"/>
 </div>
 
+**Computer Engineering Student @ PICT** | **Full-Stack Developer** | **Ex-Intern @ Cequence Security**
 
-Backend Developer & TECH Head at PICT IEEE | Building scalable systems and preparing for software engineering internships.
+**TECH Head** @ **PICT IEEE Student Branch** | Leading technical initiatives and backend development| Building scalable systems.
 
 ## 🛠️ Tech Stack
 **Languages:** C++, Python, JavaScript | **Backend:** Node.js, Docker, Redis | **Frontend:** React | **Database:** MySQL, MongoDB
+
 
 
 ## 🚀 Featured Projects
